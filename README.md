@@ -23,11 +23,11 @@ See predicted form and worth values.
 
 View a bar chart of the top 10 players by predicted form for quick comparison.
 
-✅ Results / Outcomes
-📊 The model successfully ranks players based on their projected future form, helping fans, analysts, or fantasy league participants understand current form dynamics.
+ Results / Outcomes:
+ The model successfully ranks players based on their projected future form, helping fans, analysts, or fantasy league participants understand current form dynamics.
 
-💰 Estimated worth predictions add a commercial insight dimension to player performance.
+ Estimated worth predictions add a commercial insight dimension to player performance.
 
-🔍 Visual analysis reveals consistent high-performing players and rising stars.
+ Visual analysis reveals consistent high-performing players and rising stars.
 
-🖥️ The interactive dashboard offers an accessible way to explore the model’s predictions for over 100 players from historical IPL data.
+ The interactive dashboard offers an accessible way to explore the model’s predictions for over 100 players from historical IPL data.
